@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.smalltitle {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.text {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(140, 170, 140);
+}
+

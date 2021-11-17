@@ -1,0 +1,25 @@
+
+.title {
+    text-align: center;
+}
+
+.smalltitle {
+    text-align: center;
+    list-style: inside;
+}
+
+.text {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+body {
+    background-color: burlywood;
+}
+
